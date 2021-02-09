@@ -1,32 +1,59 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
-  </div>
+	<v-app>
+		<v-app-bar app color="#253f8a" dark>
+			<v-img class="mr-3" src="@/assets/technix-bandeau.jpg" max-width="80" ></v-img>
+			<v-spacer></v-spacer>
+			<v-btn text rounded to="/">Accueil</v-btn>
+			<v-btn text rounded to="/users"     >Utilisateurs</v-btn>
+			<v-btn text rounded to="/orders"    >Commandes</v-btn>
+			<v-btn text rounded to="/tracking"  >Suivi</v-btn>
+			<v-btn text rounded to="/login"     >Connexion</v-btn>
+
+		</v-app-bar>
+		<v-main>
+			<router-view></router-view>
+		</v-main>
+		<v-footer color="primary lighten-1" padless>
+			<v-layout justify-center wrap>
+				<v-flex primary  py-4 text-center white--text xs12>
+					{{ new Date().getFullYear() }} — <strong>Technix</strong>
+				</v-flex>
+			</v-layout>
+		</v-footer>
+	</v-app>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+export default {
+	name: 'App',
+	data() {}
+}
+</script>
+<style lang="scss" >
+
+ .v-text-field .v-input__control .v-input__slot {
+    min-height: auto !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+
+.v-input .v-label {
+    font-size: 12px;
 }
 
-#nav {
-  padding: 30px;
+.v-input--selection-controls__ripple {
+  font-size: 12px;
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+
+.page {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  min-height: calc(100vh - 56px);
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>
+
+

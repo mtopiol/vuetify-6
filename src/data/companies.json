@@ -1,0 +1,497 @@
+[
+    {
+      "code": "CAAL001",
+      "shortname": "AAL",
+      "name": "AUTOMETERS ALLIANCE LTD"
+    },
+    {
+      "code": "CAAL002",
+      "shortname": "AALBORG UNIVERSITY",
+      "name": ""
+    },
+    {
+      "code": "CAAL003",
+      "shortname": "AALTO UNIVERSITY",
+      "name": "AALTO UNIVERSITY-FI-00076"
+    },
+    {
+      "code": "CHEL003",
+      "shortname": "AALTO UNIVERSITY",
+      "name": ""
+    },
+    {
+      "code": "CAAR001",
+      "shortname": "AARHUS UNIVERSITY",
+      "name": "AARHUS UNIVERSITY-DK-8000"
+    },
+    {
+      "code": "CABA001",
+      "shortname": "AB-APPENZELLER BAHNEN AG",
+      "name": "AB-APPENZELLER BAHNEN AG-CH-9101"
+    },
+    {
+      "code": "CABB008",
+      "shortname": "ABB",
+      "name": "ABB-CH-5400"
+    },
+    {
+      "code": "CABB038",
+      "shortname": "ABB",
+      "name": "ABB-CH-"
+    },
+    {
+      "code": "CABB039",
+      "shortname": "ABB",
+      "name": "ABB-D-40472"
+    },
+    {
+      "code": "CABB053",
+      "shortname": "ABB",
+      "name": ""
+    },
+    {
+      "code": "CABB004",
+      "shortname": "ABB AB",
+      "name": ""
+    },
+    {
+      "code": "CABB045",
+      "shortname": "ABB AB COMPONENTS",
+      "name": ""
+    },
+    {
+      "code": "CABB007",
+      "shortname": "ABB AS",
+      "name": "ABB AS-N-3701"
+    },
+    {
+      "code": "CABB040",
+      "shortname": "ABB AUTOMATION PRODUCTS GMBH, DRIVES & MOTORS",
+      "name": "ABB AUTOMATION PRODUCTS GMBH, DRIVES & MOTORS-D-68526"
+    },
+    {
+      "code": "CABB049",
+      "shortname": "ABB BUSINESS SERVICES SP. Z O.O",
+      "name": "ABB BUSINESS SERVICES SP. Z O.O-PL-31-547"
+    },
+    {
+      "code": "CABB042",
+      "shortname": "ABB CN CUSTOMER",
+      "name": "ABB CN CUSTOMER-CN-"
+    },
+    {
+      "code": "CABB043",
+      "shortname": "ABB CN DATONG TRAC TRANSFO",
+      "name": "ABB CN DATONG TRAC TRANSFO-CN-037038"
+    },
+    {
+      "code": "CABB044",
+      "shortname": "ABB CN HEFEI TRANSFO",
+      "name": "ABB CN HEFEI TRANSFO-CN-230022"
+    },
+    {
+      "code": "CABB009",
+      "shortname": "ABB CN NANJING CONVERTER COURANT",
+      "name": "ABB CN NANJING CONVERTER COURANT-CN-210005"
+    },
+    {
+      "code": "CABB041",
+      "shortname": "ABB CN RESEARCH CENTER",
+      "name": ""
+    },
+    {
+      "code": "CABB010",
+      "shortname": "ABB CN TIANJING SWITCH",
+      "name": "ABB CN TIANJING SWITCH-CN-300409"
+    },
+    {
+      "code": "CABB011",
+      "shortname": "ABB CN XIAMEN ELEC CONTROL",
+      "name": "ABB CN XIAMEN ELEC CONTROL-CN-361009"
+    },
+    {
+      "code": "CABB012",
+      "shortname": "ABB CN XIAMEN HIGH SWITCH",
+      "name": "ABB CN XIAMEN HIGH SWITCH-CN-361006"
+    },
+    {
+      "code": "CABB013",
+      "shortname": "ABB CN XIAMEN SWITCH",
+      "name": "ABB CN XIAMEN SWITCH-CN-361006"
+    },
+    {
+      "code": "CABB014",
+      "shortname": "ABB CN XIAN CAPACITOR",
+      "name": "ABB CN XIAN CAPACITOR-CN-710021"
+    },
+    {
+      "code": "CABB015",
+      "shortname": "ABB CN XIAN RECTIFIER",
+      "name": "ABB CN XIAN RECTIFIER-CN-710018"
+    },
+    {
+      "code": "CABB052",
+      "shortname": "ABB CORPORATE RESEARCH CENTER",
+      "name": ""
+    },
+    {
+      "code": "CABB006",
+      "shortname": "ABB CORPORATE RESEARCH CENTER SWEDEN",
+      "name": "ABB CORPORATE RESEARCH CENTER SWEDEN-SE-10044"
+    },
+    {
+      "code": "CABB016",
+      "shortname": "ABB CORPORATE RESEARCH CENTER SWEDEN",
+      "name": "ABB CORPORATE RESEARCH CENTER SWEDEN-SE-72178"
+    },
+    {
+      "code": "CABB017",
+      "shortname": "ABB CORPORATE RESEARCH CENTER SWEDEN",
+      "name": "ABB CORPORATE RESEARCH CENTER SWEDEN-SE-77180"
+    },
+    {
+      "code": "CABB018",
+      "shortname": "ABB CORPORATE RESEARCH LTD",
+      "name": "ABB CORPORATE RESEARCH LTD-CH-5405"
+    },
+    {
+      "code": "CABB019",
+      "shortname": "ABB ENTRELEC",
+      "name": "ABB ENTRELEC-69685"
+    },
+    {
+      "code": "CABB020",
+      "shortname": "ABB INC",
+      "name": "ABB INC-WI-53151"
+    },
+    {
+      "code": "CABB021",
+      "shortname": "ABB INDIA LIMITED",
+      "name": "ABB INDIA LIMITED-IN-121003"
+    },
+    {
+      "code": "CABB022",
+      "shortname": "ABB INDONESIA",
+      "name": "ABB INDONESIA-ID-12920"
+    },
+    {
+      "code": "CABB023",
+      "shortname": "ABB INDUSTRIES LLC",
+      "name": "ABB INDUSTRIES LLC-"
+    },
+    {
+      "code": "CABB001",
+      "shortname": "ABB ITALY S.P.A.",
+      "name": "ABB ITALY S.P.A.-I-16153"
+    },
+    {
+      "code": "CABB002",
+      "shortname": "ABB LIMITED",
+      "name": "ABB LIMITED-TH-10280"
+    },
+    {
+      "code": "CABB024",
+      "shortname": "ABB MALAYSIA SDN BHD.",
+      "name": "ABB MALAYSIA SDN BHD.-MY"
+    },
+    {
+      "code": "CABB025",
+      "shortname": "ABB MICROUNION TRACTION EQUIPMENT LIMITED",
+      "name": "GUANGZHOU SHENTIE"
+    },
+    {
+      "code": "CABB051",
+      "shortname": "ABB OY",
+      "name": ""
+    },
+    {
+      "code": "CABB036",
+      "shortname": "ABB POWER ELECTRONICS SERVICE",
+      "name": "ABB POWER ELECTRONICS SERVICE-CH-5300"
+    },
+    {
+      "code": "CABB048",
+      "shortname": "ABB POWER SYSTEMS SPA",
+      "name": ""
+    },
+    {
+      "code": "CABB037",
+      "shortname": "ABB POWER TECHNOLOGIES AB",
+      "name": "ABB POWER TECHNOLOGIES AB-SE-37123"
+    },
+    {
+      "code": "CABB050",
+      "shortname": "ABB SACE",
+      "name": "ABB SACE-24123"
+    },
+    {
+      "code": "CABB026",
+      "shortname": "ABB SCHWEIZ",
+      "name": "ABB SCHWEIZ-CH-5300"
+    },
+    {
+      "code": "CABB027",
+      "shortname": "ABB SCHWEIZ AG",
+      "name": "ABB SCHWEIZ AG-CH-5300"
+    },
+    {
+      "code": "CABB028",
+      "shortname": "ABB SCHWEIZ AG",
+      "name": "ABB SCHWEIZ AG-CH-5405"
+    },
+    {
+      "code": "CABB029",
+      "shortname": "ABB SCHWEIZ AG",
+      "name": "ABB SCHWEIZ AG-CH-5430"
+    },
+    {
+      "code": "CABB030",
+      "shortname": "ABB SECHERON",
+      "name": "ABB SECHERON-CH-1217"
+    },
+    {
+      "code": "CABB003",
+      "shortname": "ABB SIFANG POWER SYSTEM CO. LTD.",
+      "name": "ABB SIFANG POWER SYSTEM CO. LTD.-CN-"
+    },
+    {
+      "code": "CABB032",
+      "shortname": "ABB SOULE HELITA",
+      "name": "ABB SOULE HELITA-65200"
+    },
+    {
+      "code": "CABB033",
+      "shortname": "ABB SP. Z O.O.",
+      "name": "ABB SP. Z O.O.-PL-06-300"
+    },
+    {
+      "code": "CABB046",
+      "shortname": "ABB SPA ",
+      "name": ""
+    },
+    {
+      "code": "CABB047",
+      "shortname": "ABB S.R.O.",
+      "name": "ABB S.R.O."
+    },
+    {
+      "code": "CABB034",
+      "shortname": "ABB UAE",
+      "name": "ABB UAE-"
+    },
+    {
+      "code": "CABB035",
+      "shortname": "ABB VIETNAM",
+      "name": "ABB VIETNAM-VN"
+    },
+    {
+      "code": "CABM001",
+      "shortname": "ABM AUTOMAZIONI SRL",
+      "name": "ABM AUTOMAZIONI SRL-I-40011"
+    },
+    {
+      "code": "CABR001",
+      "shortname": "ABRASIENNE",
+      "name": ""
+    },
+    {
+      "code": "CABS001",
+      "shortname": "ABSALUT ECOLOGY LLP",
+      "name": "ABSALUT ECOLOGY LLP-"
+    },
+    {
+      "code": "CACA001",
+      "shortname": "ACADEMICIAN EMIL DJAKOV INSTITUTE OF ELECTRONICS",
+      "name": "ACADEMICIAN EMIL DJAKOV INSTITUTE OF ELECTRONICS-BG-1784"
+    },
+    {
+      "code": "CACC001",
+      "shortname": "ACCEL INSTRUMENTS GMBH",
+      "name": "ACCEL INSTRUMENTS GMBH-CH-8754"
+    },
+    {
+      "code": "CACC003",
+      "shortname": "A.C.C.INGENERIE & MAINTENANCE",
+      "name": "A.C.C.INGENERIE & MAINTENANCE-63100"
+    },
+    {
+      "code": "CACC002",
+      "shortname": "AC&CS – CRM GROUP",
+      "name": "AC&CS – CRM GROUP-B-4400"
+    },
+    {
+      "code": "CACE001",
+      "shortname": "ACE AQUATEC LTD.",
+      "name": ""
+    },
+    {
+      "code": "CACH001",
+      "shortname": "ACHATS PRO",
+      "name": ""
+    },
+    {
+      "code": "CACI001",
+      "shortname": "ACISTEC ENGINEERING",
+      "name": "ACISTEC ENGINEERING-78280"
+    },
+    {
+      "code": "CACM001",
+      "shortname": "ACM",
+      "name": "ACM-78640"
+    },
+    {
+      "code": "CACN001",
+      "shortname": "ACNS",
+      "name": "ACNS-91490"
+    },
+    {
+      "code": "CACO001",
+      "shortname": "ACOME",
+      "name": "ACOME-50140"
+    },
+    {
+      "code": "CACR001",
+      "shortname": "ACREO",
+      "name": "ACREO-SE-16440"
+    },
+    {
+      "code": "CACS001",
+      "shortname": "A.C.S. S.R.L.",
+      "name": "A.C.S. S.R.L.-I-42020"
+    },
+    {
+      "code": "CCEG002",
+      "shortname": "ACTEMIUM",
+      "name": "ACTEMIUM-F-33612"
+    },
+    {
+      "code": "CCEG003",
+      "shortname": "ACTEMIUM",
+      "name": "ACTEMIUM-ANCIEN CEGELEC-F-65600"
+    },
+    {
+      "code": "CACT002",
+      "shortname": "ACTEMIUM ELEC INDUSTRIE",
+      "name": "ACTEMIUM ELEC INDUSTRIE-69720"
+    },
+    {
+      "code": "CCEG005",
+      "shortname": "ACTEMIUM NDT – PRODUCTS & SYSTEMS",
+      "name": "ACTEMIUM NDT – PRODUCTS & SYSTEMS-F-91220"
+    },
+    {
+      "code": "CACT001",
+      "shortname": "ACTIA AUTOMOTIVE",
+      "name": "ACTIA AUTOMOTIVE-F31342"
+    },
+    {
+      "code": "CACT003",
+      "shortname": "ACTIVE DEVICES INC.",
+      "name": "ACTIVE DEVICES INC.-IN-400069"
+    },
+    {
+      "code": "CACX001",
+      "shortname": "ACXYS TECHNOLOGIES",
+      "name": "ACXYS TECHNOLOGIES-38950"
+    },
+    {
+      "code": "CADA001",
+      "shortname": "ADAM-ADVANCED ONCOTHERAPY",
+      "name": ""
+    },
+    {
+      "code": "CADC001",
+      "shortname": "ADCA",
+      "name": "ADCA91520"
+    },
+    {
+      "code": "CADE006",
+      "shortname": "ADEE ELECTRONIC",
+      "name": "ADEE ELECTRONIC-21410"
+    },
+    {
+      "code": "CADE007",
+      "shortname": "ADENSIS GMBH",
+      "name": "ADENSIS GMBH-D-01129"
+    },
+    {
+      "code": "CADE004",
+      "shortname": "ADETEL GROUP",
+      "name": "ADETEL GROUP-69134"
+    },
+    {
+      "code": "CADE005",
+      "shortname": "ADETEL GROUP",
+      "name": "ADETEL GROUP-91300"
+    },
+    {
+      "code": "CADE003",
+      "shortname": "ADETEL MAROC",
+      "name": "ADETEL MAROC"
+    },
+    {
+      "code": "CADL001",
+      "shortname": "ADLER INSTRUMENTOS",
+      "name": "ADLER INSTRUMENTOS-E-28034"
+    },
+    {
+      "code": "CADN001",
+      "shortname": "ADNANO",
+      "name": ""
+    },
+    {
+      "code": "CADO001",
+      "shortname": "ADOR POWERTRON LTD",
+      "name": "ADOR POWERTRON LTD-IN-411019"
+    },
+    {
+      "code": "CADO002",
+      "shortname": "ADOR POWERTRON LTD",
+      "name": "ADOR POWERTRON LTD-IN-"
+    },
+    {
+      "code": "CADV001",
+      "shortname": "ADVANCE COMPONENTS & INSTRUMENTS PVT. LTD",
+      "name": "ADVANCE COMPONENTS & INSTRUMENTS PVT. LTD-IN-400001"
+    },
+    {
+      "code": "CADV005",
+      "shortname": "ADVANCED INDUSTRIAL MANUFACTURING",
+      "name": ""
+    },
+    {
+      "code": "CADV002",
+      "shortname": "ADVANCED MANUFACTURING TECHNOLOGIES (AMT)",
+      "name": "ADVANCED MANUFACTURING TECHNOLOGIES (AMT)-AS-2500"
+    },
+    {
+      "code": "CADV003",
+      "shortname": "ADVANTECH",
+      "name": "ADVANTECH-RO-60342"
+    },
+    {
+      "code": "CAED001",
+      "shortname": "AEDILIS UAB",
+      "name": ""
+    },
+    {
+      "code": "CAEI001",
+      "shortname": "A.E.I.",
+      "name": "A.E.I.-38170"
+    },
+    {
+      "code": "CAEO001",
+      "shortname": "AEOLUS AEROTECH PVT LTD ",
+      "name": ""
+    },
+    {
+      "code": "CAER003",
+      "shortname": "AEROSTAR.SA ",
+      "name": ""
+    },
+    {
+      "code": "CAER001",
+      "shortname": "AEROVOX",
+      "name": "AEROVOX-CN-"
+    }
+   ]
